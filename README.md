@@ -29,6 +29,6 @@ Bu satır zaten varsa bir şey yapmanıza gerek yok. AdMob yayınlandıktan sonr
 
 ## Kapsam
 
-Gizlilik politikası şu sürümü anlatır: Google AdMob reklamları (ödüllü + seviye arası), Google Play uygulama içi satın alımları, 13+ hedef kitle. Analiz, hesap, bulut kaydı ve Play Games yok. Bu tür bir hizmet eklenmeden ya da hedef kitle değişmeden önce metin güncellenmelidir. Site yalnızca yerel stil ve görsel kullanır, izleme betiği ya da dış font yok.
+Gizlilik politikası şu sürümü anlatır: Google AdMob reklamları (ödüllü + seviye arası), Google Play uygulama içi satın alımları, 6+ karma hedef kitle (13 yaş altına çocuğa yönelik reklam, ilk açılışta yaş sorusu). Google Play Games sıralamaları (sadece 13+). Analiz, hesap ve bulut kaydı yok. Bu tür bir hizmet eklenmeden ya da hedef kitle değişmeden önce metin güncellenmelidir. Site yalnızca yerel stil ve görsel kullanır, izleme betiği ya da dış font yok.
 
 Oyun kaynak kodu ve imzalama dosyaları bu siteye konmaz.
