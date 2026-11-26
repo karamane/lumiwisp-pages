@@ -1,0 +1,15 @@
+{
+  "firstClearFireflies": 5,
+  "hardLevelBonus": 5,
+  "replayFireflies": 1,
+  "fireflyPerChallengeStage": 1,
+  "reviveCost": 40,
+  "boosterSetCost": 60,
+  "lastLevelWithFreeBoosters": 10,
+  "starsPerChest": 30,
+  "chestFireflies": 30,
+  "fogNightFireflies": 10,
+  "moonstonePrice": 300,
+  "emberPrice": 400,
+  "mossPrice": 500
+}
