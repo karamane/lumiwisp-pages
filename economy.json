@@ -11,5 +11,8 @@
   "fogNightFireflies": 10,
   "moonstonePrice": 300,
   "emberPrice": 400,
-  "mossPrice": 500
+  "mossPrice": 500,
+  "frostPrice": 450,
+  "blossomPrice": 450,
+  "betweenLevelAds": false
 }
